@@ -23,4 +23,6 @@ git clone https://github.com/allinyearn/astro_conf.git ~/.config/nvim/lua/user
 nvim
 ```
 
+#### Don't forget to sync packages with :Lazy sync.
+
 ## What's inside?
