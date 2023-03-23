@@ -1,6 +1,6 @@
 # Allinyearn AstroNvim config.
 
-A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+My configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
 
