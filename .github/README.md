@@ -1,4 +1,4 @@
-# Allinyearn AstroNvim config.
+# AstroNvim config.
 
 My configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
